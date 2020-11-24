@@ -25,6 +25,7 @@
   },
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
+    "camelcase": "off",
     "react/jsx-props-no-spreading": "off",
     "prettier/prettier": "error",
     "no-use-before-define": "off",
