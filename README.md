@@ -52,7 +52,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 **Install dependencies**
 
-You need to install the dependences in api and client folder, so **run the above command on root and in each of this folders**:
+You need to install the dependences in **web** folder, so **run the above command on root and in each of this folders**:
 
 ```yarn```
 
